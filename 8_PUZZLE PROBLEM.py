@@ -62,4 +62,4 @@ if solution_steps:
     print("\nSolution steps:")
     print_puzzle_steps(solution_steps)
 else:
-    print("No solution found.")
+    print("No solution found.").
